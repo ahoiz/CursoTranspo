@@ -8,7 +8,7 @@ public class Exercicio10 {
 
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("Informe sua idade:");
-		int idade = teclado.nextInt();
+		//int idade = teclado.nextInt();
 		System.out.println("Informe sua altura:");
 		double altura = teclado.nextDouble();
 		System.out.println("Informe seu peso:");
