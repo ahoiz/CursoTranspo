@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Aula002/src"/>
+	<classpathentry kind="src" path="Aula004/src"/>
+	<classpathentry kind="src" path="Aula007/src"/>
+	<classpathentry kind="src" path="Avaliacao/src"/>
+	<classpathentry kind="src" path="AvaliacaoLuizSabado/src"/>
+	<classpathentry kind="src" path="br.com.cursojava.aula003/src"/>
+	<classpathentry kind="src" path="UriOnline/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
